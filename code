@@ -1,0 +1,26 @@
+case $1 in
+1)
+echo "this is 1 "
+;;
+2)
+echo "this is 2"
+;;
+3)
+echo "this is 3 "
+;;
+4)
+echo "this is 4"
+;;
+5)
+echo "this is 5 "
+;;
+6)
+echo "this is 6"
+;;
+7)
+echo "this is 7 "
+;;
+*)
+echo "this is other number"
+;;
+esac
